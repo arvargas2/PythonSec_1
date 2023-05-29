@@ -2,7 +2,7 @@ import os
 import numpy as np
 os.system("cls")
 
-tamaño=3
+tamaño=5
 arr_profes = np.empty(tamaño, dtype=object)
 
 for k in range(tamaño):
